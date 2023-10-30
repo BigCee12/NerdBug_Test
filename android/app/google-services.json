@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "686315213576",
+    "project_id": "charles-ejikeme",
+    "storage_bucket": "charles-ejikeme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686315213576:android:7f5af704cf2d84aef092bd",
+        "android_client_info": {
+          "package_name": "com.example.charles_ejikeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686315213576-25m8994hbr4a5ubgfj884l0t0m1e97sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charles_ejikeme",
+            "certificate_hash": "3fa428b4a4136e5a499da3fd0f06af6c3c5041dd"
+          }
+        },
+        {
+          "client_id": "686315213576-cjkoc2isti4cpgi8ehmm889p3aqvdect.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0CWcVhakEZjo3bxwgrd4NHFv1DYCBA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686315213576-cjkoc2isti4cpgi8ehmm889p3aqvdect.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686315213576-fudftosvk3h1fp9qkg0c8k2es1n22srj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charlesEjikeme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
